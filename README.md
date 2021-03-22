@@ -1,3 +1,5 @@
+!Package created to test create-react-library
+
 # conditional-expanders
 
 > Conditionally expand arrays and objects with an easy to read syntax
